@@ -1,0 +1,276 @@
+word_no,words,clue
+1,PYTHON,Programming language named after a British comedy troupe
+2,FLASK,Lightweight web framework for rapid prototyping
+3,DJANGO,High-level web framework that encourages rapid development
+4,PANDAS,Data manipulation library with DataFrame structures
+5,NUMPY,Fundamental package for scientific computing arrays
+6,MATPLOTLIB,Comprehensive library for creating static visualizations
+7,SELENIUM,Tool for automating web browser testing
+8,REQUESTS,Library that makes HTTP calls elegantly simple
+9,SKLEARN,Machine learning toolkit for predictive analysis
+10,TENSORFLOW,Google's open-source machine learning platform
+11,JUPYTER,Interactive computing environment for data science
+12,ANACONDA,Distribution platform for data science packages
+13,PYTEST,Testing framework that supports simple assertions
+14,VIRTUALENV,Tool for creating isolated development environments
+15,CONDA,Cross-platform package and environment manager
+16,BEAUTIFULSOUP,HTML and XML parsing library for web scraping
+17,SCRAPY,Framework for extracting data from websites
+18,FASTAPI,Modern framework for building high-performance APIs
+19,SQLALCHEMY,Object-relational mapping toolkit for databases
+20,CELERY,Distributed task queue for background processing
+21,REDIS,In-memory data structure store for caching
+22,MONGODB,Document-oriented NoSQL database system
+23,GUNICORN,WSGI HTTP server for UNIX systems
+24,UWSGI,Application server container for web applications
+25,PILLOW,Imaging library for picture processing
+26,OPENCV,Computer vision library for image analysis
+27,PYGAME,Cross-platform set of modules for game development
+28,KIVY,Framework for developing multi-touch applications
+29,TKINTER,Standard GUI library included with the language
+30,PYSIDE,Cross-platform GUI toolkit binding
+31,STREAMLIT,Framework for building data applications quickly
+32,DASH,Framework for building analytical web applications
+33,BOKEH,Interactive visualization library for modern browsers
+34,PLOTLY,Graphing library for interactive plots and dashboards
+35,SEABORN,Statistical data visualization built on matplotlib
+36,SCIPY,Library for mathematics and scientific computing
+37,SYMPY,Library for symbolic mathematics computation
+38,STATSMODELS,Statistical modeling and econometrics library
+39,NETWORKX,Library for studying complex networks
+40,NLTK,Natural language processing toolkit
+41,SPACY,Industrial-strength natural language processing
+42,GENSIM,Topic modeling and document similarity analysis
+43,TEXTBLOB,Simple API for diving into common NLP tasks
+44,WORDCLOUD,Library for generating visual word representations
+45,TWEEPY,Library for accessing social media APIs
+46,PSYCOPG,Advanced database adapter for PostgreSQL
+47,PYMONGO,Official driver for MongoDB databases
+48,MYSQLCONNECTOR,Official driver for MySQL databases
+49,SQLITE,Self-contained serverless database engine
+50,ALEMBIC,Database migration tool for schema changes
+51,MARSHMALLOW,Library for converting complex datatypes
+52,PYDANTIC,Data validation using type annotations
+53,CLICK,Package for creating beautiful command-line interfaces
+54,ARGPARSE,Parser for command-line options and arguments
+55,CONFIGPARSER,Configuration file parser for INI files
+56,LOGGING,Built-in facility for tracking events
+57,UNITTEST,Built-in framework for testing code
+58,MOCK,Library for test doubles and stubbing
+59,COVERAGE,Tool for measuring code test coverage
+60,FLAKE,Tool for style guide enforcement
+61,BLACK,Opinionated code formatter for consistency
+62,PYLINT,Static code analysis tool for quality
+63,MYPY,Optional static type checker
+64,BANDIT,Security linter for finding vulnerabilities
+65,SPHINX,Documentation generator from source code
+66,READTHEDOCS,Platform for hosting project documentation
+67,SETUPTOOLS,Library for packaging and distributing projects
+68,WHEEL,Built-package format for faster installation
+69,TWINE,Utility for publishing packages to repositories
+70,PIPENV,Higher-level tool for managing project dependencies
+71,POETRY,Dependency management and packaging solution
+72,DOCKER,Containerization platform for application deployment
+73,KUBERNETES,Container orchestration system for scaling
+74,ANSIBLE,Automation platform for configuration management
+75,FABRIC,Library for streamlining SSH deployment tasks
+76,INVOKE,Task execution tool for automating workflows
+77,PARAMIKO,Implementation of SSHv2 protocol
+78,CRYPTOGRAPHY,Package providing cryptographic recipes
+79,HASHLIB,Secure hash and message digest algorithms
+80,SECRETS,Generate cryptographically strong random numbers
+81,UUID,Generate universally unique identifiers
+82,DATETIME,Classes for manipulating dates and times
+83,CALENDAR,General calendar-related functions
+84,TIME,Access to time-related functions
+85,TIMEZONE,Abstract base class for time zone info
+86,LOCALE,Internationalization services
+87,GETTEXT,Multilingual internationalization services
+88,PICKLE,Binary protocol for serializing objects
+89,JSON,Data interchange format encoder and decoder
+90,CSV,File format reading and writing functionality
+91,XML,Processing modules for markup languages
+92,HTML,Support for HyperText Markup Language
+93,EMAIL,Package for handling electronic messages
+94,SMTPLIB,Client session object for sending mail
+95,IMAPLIB,Client for accessing mailboxes via IMAP4
+96,POPLIB,Client for retrieving messages via POP3
+97,FTPLIB,Client class for File Transfer Protocol
+98,URLLIB,Package for opening URLs
+99,HTTP,Package for working with web protocols
+100,SOCKET,Low-level networking interface
+101,THREADING,Higher-level threading interface
+102,MULTIPROCESSING,Process-based parallel execution
+103,ASYNCIO,Infrastructure for writing single-threaded concurrent code
+104,CONCURRENT,High-level interface for asynchronous execution
+105,QUEUE,Synchronized queue class implementation
+106,COLLECTIONS,Specialized container datatypes
+107,ITERTOOLS,Functions creating iterators for efficient looping
+108,FUNCTOOLS,Higher-order functions and operations on callables
+109,OPERATOR,Standard operators as functions
+110,COPY,Shallow and deep copy operations
+111,SHELVE,Persistent dictionary-like object storage
+112,DBM,Interfaces to various database managers
+113,ZLIB,Compression compatible with gzip format
+114,GZIP,Support for GNU zip file format
+115,BZIP,Support for compression algorithm
+116,LZMA,Support for compression using algorithm
+117,TARFILE,Read and write tar archive files
+118,ZIPFILE,Work with ZIP archive format
+119,TEMPFILE,Generate temporary files and directories
+120,SHUTIL,High-level file and directory operations
+121,GLOB,Unix shell-style pathname pattern expansion
+122,FNMATCH,Unix filename pattern matching functions
+123,LINECACHE,Provides random access to text lines
+124,FILEINPUT,Iterate over lines from multiple input streams
+125,STAT,Utilities for interpreting file statistics
+126,PATHLIB,Object-oriented filesystem path handling
+127,FILECMP,Functions for comparing files and directories
+128,SUBPROCESS,Spawn new processes and connect to pipes
+129,SHLEX,Simple lexical analysis for shell-like syntax
+130,GETOPT,C-style parser for command line options
+131,OPTPARSE,Command line option parsing library
+132,WEAKREF,Support for weak references to objects
+133,TYPES,Dynamic type creation and built-in type names
+134,PPRINT,Data structure pretty printer
+135,REPRLIB,Alternate implementation of repr() function
+136,ENUM,Support for enumerations
+137,NUMBERS,Numeric abstract base classes hierarchy
+138,MATH,Mathematical functions for real numbers
+139,CMATH,Mathematical functions for complex numbers
+140,DECIMAL,Decimal fixed point and floating arithmetic
+141,FRACTIONS,Rational number representation
+142,RANDOM,Generate random numbers for distributions
+143,STATISTICS,Mathematical statistics functions
+144,ARRAY,Efficient arrays of numeric values
+145,HEAPQ,Heap queue algorithm implementation
+146,BISECT,Array bisection algorithm for sorted lists
+147,CONTEXTLIB,Utilities for common tasks involving context managers
+148,ABC,Infrastructure for defining Abstract Base Classes
+149,IO,Core tools for working with streams
+150,OS,Miscellaneous operating system interface
+151,SYS,System-specific parameters and functions
+152,PLATFORM,Access to underlying identification data
+153,ERRNO,Standard system error symbols
+154,CTYPES,Foreign function library interface
+155,QUEUE,Multi-producer multi-consumer queues
+156,SCHED,Event scheduler for timed execution
+157,SELECT,Efficient I/O completion waiting
+158,SELECTORS,High-level I/O multiplexing abstractions
+159,SIGNAL,Set handlers for asynchronous events
+160,MMAP,Memory-mapped file support
+161,CODECS,Codec registry and support functions
+162,UNICODEDATA,Access to character properties database
+163,STRINGPREP,Internet string preparation protocol
+164,READLINE,GNU readline interface for line editing
+165,RLCOMPLETER,Completion function for GNU readline
+166,GETPASS,Portable password input utility
+167,CURSES,Terminal handling for character-cell displays
+168,WINREG,Interface to Windows registry API
+169,MSVCRT,Useful routines from MS VC++ runtime
+170,WINSOUND,Sound-playing interface for Windows
+171,POSIX,Most common operating system interface
+172,PWD,Password database for Unix systems
+173,SPWD,Shadow password database access
+174,GRP,Group database for Unix systems
+175,TERMIOS,POSIX style tty control interface
+176,TTY,Terminal control functions
+177,PTY,Pseudo-terminal utilities
+178,FCNTL,System calls for file control
+179,PIPES,Interface to shell pipelines
+180,RESOURCE,Interface to getrlimit and getrusage
+181,NIS,Interface to Network Information Service
+182,SYSLOG,Unix syslog library routines
+183,XDRLIB,Support for External Data Representation
+184,PLISTLIB,Support for Apple property list format
+185,COPYREG,Register support functions for serialization
+186,MARSHAL,Internal object serialization format
+187,NETRC,Parse netrc credential files
+188,HMAC,Keyed-hashing for message authentication
+189,BINASCII,Convert between binary and ASCII representations
+190,QUOPRI,Encode and decode quoted-printable data
+191,TEXTWRAP,Text wrapping and paragraph formatting
+192,DIFFLIB,Helpers for computing deltas between objects
+193,ZIPAPP,Manage executable archives
+194,STRUCT,Interpret bytes as packed binary data
+195,IMPORTLIB,Implementation of import statement functionality
+196,PKGUTIL,Utilities for working with packages
+197,MODULEFINDER,Find modules used by a script
+198,RUNPY,Locate and run modules without importing
+199,TRACEBACK,Print or retrieve stack traceback
+200,FUTURE,Pseudo-module to enable new language features
+201,GC,Interface to cyclic garbage collector
+202,INSPECT,Live object introspection utilities
+203,SITE,Site-specific configuration hook
+204,WARNINGS,Warning control framework
+205,AST,Abstract syntax tree manipulation
+206,SYMTABLE,Access to compiler symbol tables
+207,KEYWORD,Testing for reserved identifiers
+208,TOKEN,Constants representing terminal nodes
+209,TOKENIZE,Lexical scanning for source code
+210,TABNANNY,Detection of ambiguous indentation
+211,COMPILE,Compile source files to bytecode
+212,COMPILEALL,Byte-compile libraries in a directory tree
+213,DIS,Disassembler for bytecode
+214,PICKLETOOLS,Contains extensive comments about pickle protocol
+215,FORMATTER,Generic output formatting
+216,MAILCAP,Mailcap file handling utilities
+217,MAILBOX,Manipulate mailboxes in various formats
+218,MIMETYPES,Map filenames to MIME types
+219,ENCODINGS,Package containing various text encodings
+220,IDNA,Support for Internationalized Domain Names
+221,MACPATH,Mac OS path manipulation functions
+222,NTPATH,Common pathname manipulations for NT
+223,POSIXPATH,Common operations on Posix pathnames
+224,GENERICPATH,Common operations on Posix pathnames
+225,AIFC,Read and write AIFF and AIFC files
+226,AUDIOOP,Manipulate raw audio data
+227,CHUNK,Read IFF chunked data
+228,COLORSYS,Conversions between color systems
+229,IMGHDR,Determine the type of an image
+230,SNDHDR,Determine type of sound file
+231,OSSAUDIODEV,Access to OSS-compatible audio devices
+232,SUNAU,Read and write Sun AU files
+233,WAVE,Read and write WAV files
+234,NNTPLIB,NNTP protocol client
+235,TELNETLIB,Telnet client library
+236,SOCKETSERVER,Framework for network servers
+237,XMLRPC,XML-RPC client and server library
+238,DOCTEST,Test interactive examples
+239,TEST,Regression tests package
+240,BSDDB,Interface to Berkeley DB library
+241,ANYDBM,Generic access to DBM-style databases
+242,WHICHDB,Guess which DBM module created a database
+243,DUMBDBM,Portable DBM implementation
+244,GDBM,GNU's reinterpretation of dbm
+245,ROBOTPARSER,Parser for robots.txt
+246,THREAD,Multiple threads of control
+247,DUMMY,Placeholder for threading module
+248,ASYNCORE,Asynchronous socket handler
+249,ASYNCHAT,Asynchronous socket command/response handler
+250,DISTUTILS,Building and installing modules
+251,ENSUREPIP,Bootstrapping the pip installer
+252,VENV,Creation of virtual environments
+253,SYSCONFIG,Provide access to configuration information
+254,BUILTINS,Built-in objects
+255,MAIN,Top-level script environment
+256,MSILIB,Read and write Microsoft Installer files
+257,URLLIB,URL handling modules
+258,HTTPLIB,HTTP protocol client
+259,FTPLIB,FTP protocol client
+260,POPLIB,POP protocol client
+261,IMAPLIB,IMAP protocol client
+262,NNTPLIB,NNTP protocol client
+263,SMTPLIB,SMTP protocol client
+264,TELNETLIB,Telnet client
+265,UUID,UUID objects according to RFC
+266,SOCKETSERVER,A framework for network servers
+267,XMLRPC,XML-RPC client and server libraries
+268,SIMPLEXMLRPC,Basic XML-RPC server
+269,DOCTEST,Test interactive examples
+270,UNITTEST,Unit testing framework
+271,TEST,Regression tests package for the standard library
+272,SQLITE,DB-API interface for SQLite databases
+273,ZLIB,Compression compatible with gzip
+274,GZIP,Support for gzip files
+275,TARFILE,Read and write tar archive files

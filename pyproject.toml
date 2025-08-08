@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "word-search"
+version = "0.1.0"
+description = ""
+authors = ["Harikishan TK <harikishan.tk@happyfox.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+word-search-generator = "^3.5.1"
+pandas = "^2.2.2"
+pypdf2 = "^3.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
